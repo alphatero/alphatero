@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I am Alpha 👋
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alphatero)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphatero)
 
 <!--
 **alphatero/alphatero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
